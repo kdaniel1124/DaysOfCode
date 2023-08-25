@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "UKW78CD6mpKev0XNXRKyqsZhKq01N1ENbfijBszFSg7SEBdEnRMI/r+DYNpdmW3ElrV1WOiEAwOns7QAHiDrWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danny\\CodeProjects\\DaysOfCode\\DaysOfCode\\DaysOfCode.Test\\DaysOfCode.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danny\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\microsoft.codecoverage\\17.6.2\\microsoft.codecoverage.17.6.2.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.2\\microsoft.net.test.sdk.17.6.2.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.2\\microsoft.testplatform.objectmodel.17.6.2.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.2\\microsoft.testplatform.testhost.17.6.2.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\mstest.testadapter\\3.0.4\\mstest.testadapter.3.0.4.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\mstest.testframework\\3.0.4\\mstest.testframework.3.0.4.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
