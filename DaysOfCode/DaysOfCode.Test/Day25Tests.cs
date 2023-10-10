@@ -51,7 +51,7 @@ namespace DaysOfCode.Test
             bool result = Test3.IsStrictlyIncreasing(input);
 
             //Assert
-            Assert.AreEqual(false, result, "If the array decreases at any poit  then the method should return false");
+            Assert.AreEqual(false, result, "If the array decreases at any point then the method should return false");
 
         }
 
