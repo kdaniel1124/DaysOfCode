@@ -10,10 +10,16 @@ namespace DaysOfCode
     {
         public string HelloName(string name)
         {
-            string upperName = name[0].ToString().ToUpper() + name.Substring(1);
-            name[0].ToString().ToUpper();
+            if (name.Length < 1)
+            {
+                return "Come on give me a longer name than that!";
+            }
+            else
+            {
+                string upperName = name[0].ToString().ToUpper() + name.Substring(1);
 
-            return ($"Hello {upperName}!");
+                return ($"Hello {upperName}!");
+            }
         }
     }
 }
