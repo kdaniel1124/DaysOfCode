@@ -30,7 +30,7 @@ namespace DaysOfCode.Test
             //Arrange
             DaysOfCode26 Test2 = new DaysOfCode26();
             int input = 500;
-            int expected = 41250;
+            int expected = 62500;
 
             //Act
             int result = Test2.SumOdds(input);

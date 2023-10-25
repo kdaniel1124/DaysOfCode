@@ -52,6 +52,5 @@ namespace DaysOfCode
             }
             return total;
         }
-
     }
 }
