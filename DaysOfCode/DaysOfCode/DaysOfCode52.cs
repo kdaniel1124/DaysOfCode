@@ -18,8 +18,8 @@ namespace DaysOfCode
             {
                 char outLeft = outWord[0];
                 char outRight = outWord[outWord.Length - 1];
-
-                return (outLeft + outLeft + inWord + outRight + outRight);
+                string final = $"{outLeft}{outLeft}{inWord}{outRight}{outRight}";
+                return final;
             }
         }
     }
