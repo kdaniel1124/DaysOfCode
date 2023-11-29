@@ -22,7 +22,6 @@ namespace DaysOfCode
                 Console.WriteLine("baba");
             }
             return true;
-
         }
     }
 }
