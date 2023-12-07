@@ -30,3 +30,4 @@ C:\Users\Danny\CodeProjects\DaysOfCode\DaysOfCode\DaysOfCode\obj\Debug\net6.0\re
 C:\Users\Danny\CodeProjects\DaysOfCode\DaysOfCode\DaysOfCode\obj\Debug\net6.0\DaysOfCode.pdb
 C:\Users\Danny\CodeProjects\DaysOfCode\DaysOfCode\DaysOfCode\obj\Debug\net6.0\DaysOfCode.genruntimeconfig.cache
 C:\Users\Danny\CodeProjects\DaysOfCode\DaysOfCode\DaysOfCode\obj\Debug\net6.0\ref\DaysOfCode.dll
+C:\Users\Danny\CodeProjects\DaysOfCode\DaysOfCode\DaysOfCode\obj\Debug\net6.0\DaysOfCode.sourcelink.json

@@ -115,3 +115,4 @@ C:\Users\Danny\CodeProjects\DaysOfCode\DaysOfCode\DaysOfCode.Test\obj\Debug\net6
 C:\Users\Danny\CodeProjects\DaysOfCode\DaysOfCode\DaysOfCode.Test\obj\Debug\net6.0\DaysOfCode.Test.pdb
 C:\Users\Danny\CodeProjects\DaysOfCode\DaysOfCode\DaysOfCode.Test\obj\Debug\net6.0\DaysOfCode.Test.genruntimeconfig.cache
 C:\Users\Danny\CodeProjects\DaysOfCode\DaysOfCode\DaysOfCode.Test\obj\Debug\net6.0\ref\DaysOfCode.Test.dll
+C:\Users\Danny\CodeProjects\DaysOfCode\DaysOfCode\DaysOfCode.Test\obj\Debug\net6.0\DaysOfCode.Test.sourcelink.json
