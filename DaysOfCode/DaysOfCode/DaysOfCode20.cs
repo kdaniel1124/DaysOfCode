@@ -12,6 +12,9 @@ namespace DaysOfCode
         // Consider the sum of the values in each array. Return the array which has the largest sum. 
         // In event of a tie, return a.
 
-        
+        public int[] BiggerTwo(int[] a, int[] b)
+        {
+            return b;
+        }
     }
 }
