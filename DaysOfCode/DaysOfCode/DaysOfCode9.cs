@@ -10,7 +10,7 @@ namespace DaysOfCode
     {
         public bool No14(int[] arr)
         {
-            return (arr.Contains(1) || arr.Contains(4));
+            return (!arr.Contains(1) && !arr.Contains(4));
         }
     }
 }
