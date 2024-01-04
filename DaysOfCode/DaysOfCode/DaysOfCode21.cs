@@ -10,18 +10,30 @@ namespace DaysOfCode
     {
         public int Blackjack(int a, int b)
         {
-            if(a >= b && a <= 21)
+            /*if(a >= b && a <= 21)
             {
                 return a;
             }
-            else if (b > a && b <= 21)
-            {
-                return b;
-            }
-            else
+            else if (b > 21 && a > 21)
             {
                 return 0;
             }
+            else
+            {
+                return b;
+            }*/
+
+            int[] hands = { a, b };
+
+            for (int i = 0; i < hands.Length; i++)
+            {
+                if (hands[i] > 21)
+                {
+                    hands[i] = 0;
+                }
+            }
+
+            return hands.Max();
         }
     }
 }
