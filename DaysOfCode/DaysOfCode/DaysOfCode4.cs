@@ -12,18 +12,17 @@ namespace DaysOfCode
         {
             int result = 0;
 
-            if (a[0] == 1 && b[0] == 1)
+            if(a.Length > 0 && a[0] == 1)
             {
-                return 2;
+                result++;
             }
-            else if (a[0] != 1 && b[0] != 1)
+
+            if(b.Length > 0 && b[0] == 1)
             {
-                return 0;
+                result++;
             }
-            else
-            {
-                return 1;
-            }
+
+            return result;
         }
     }
 }
