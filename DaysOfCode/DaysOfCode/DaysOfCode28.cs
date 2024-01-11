@@ -29,9 +29,13 @@ namespace DaysOfCode
                 }
                 else
                 {
-                    result[i - 1] = $"{i}, ";
+                    result[i - 1] = $"{i}, "; 
                 }
             }
+            string last = result[result.Length - 1];
+            last = last.Substring(0, last.Length - 2);
+            result[result.Length - 1] = last;
+
             return result;
         }
     }

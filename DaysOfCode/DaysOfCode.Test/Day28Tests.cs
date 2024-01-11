@@ -15,7 +15,7 @@ namespace DaysOfCode.Test
         {
             //Arrange
             DaysOfCode28 Test1 = new DaysOfCode28();
-            string[] expected = new string[] { "1, ", "2, ", "Fizz, ", "4, ", "Buzz, ", "Fizz, ", "7, ", "8, ", "Fizz, ", "Buzz, ", "11, ", "Fizz, ", "13, ", "14, ", "FizzBuzz, " };
+            string[] expected = new string[] { "1, ", "2, ", "Fizz, ", "4, ", "Buzz, ", "Fizz, ", "7, ", "8, ", "Fizz, ", "Buzz, ", "11, ", "Fizz, ", "13, ", "14, ", "FizzBuzz" };
 
             //Act
             string[] result = Test1.FizzBuzz(15);
