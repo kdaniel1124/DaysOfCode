@@ -10,14 +10,22 @@ namespace DaysOfCode.Test
     {
         public int Factorial(int n)
         {
-            int result = 1;
-
-            for (int i = 1; i <= n; i++)
+            if (n < 1)
             {
-                result *= i;
+                return 0;
             }
+            else
+            {
 
-            return result;
+                int result = 1;
+
+                for (int i = 1; i <= n; i++)
+                {
+                    result *= i;
+                }
+
+                return result;
+            }
         }
     }
 }
