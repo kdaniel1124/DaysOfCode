@@ -15,9 +15,9 @@ namespace DaysOfCode
 
             for (int i = 0; i < str.Length - 1; i++)
             {
-                if (str[i] == 'x')
+                if (char.ToLower(str[i]) == 'x')
                 {
-                    if (str[i + 1] == 'x')
+                    if (char.ToLower(str[i + 1]) == 'x')
                     {
                         result = true;
                     }
